@@ -1,4 +1,4 @@
-# Hello everybody:wave::smiley:
+# Hello everybody:v:
 ## My name is Yevhenii, and I'm an HTML coder:computer:
 
 ***I specialize in creating user-friendly responsive web pages and have a one year of commercial freelance experience.***
