@@ -1,5 +1,5 @@
 # Hello everybody👋
-## My name is Yevhenii, and I'm an HTML coder
+## My name is Yevhenii, and I'm an ᴡᴇʙᴜɪ ɪɴᴛᴇʀꜰᴀᴄᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 
 ***I specialize in creating user-friendly responsive web pages and have a one year of commercial freelance experience.***
 ***You can check my client reviews on freelance marketplaces [Upwork](https://www.upwork.com/freelancers/~016b13ca89c7308578?p=1617840128678215680)  and [Weblancer](https://www.weblancer.net/users/jekakoba/).*** 
